@@ -2,7 +2,7 @@
 
 My name is Dmytro (or Dima).
 
-At the moment, I freelance building tooling and AI automations for businesses to automate slow manual work holding back efficiency.
+At the moment, I freelance building AI automations and tooling for businesses. I focus on ops, marketing, and slow manual work holding back the company.
 
 Before this, I worked at [Midtronics](https://www.midtronics.com), a $100M/yr battery technology company that develops next-generation charging, discharging, and testing equipment. There I spent three years as an embedded software engineer building these systems.
 
